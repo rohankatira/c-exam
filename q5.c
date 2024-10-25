@@ -1,6 +1,7 @@
-//write a program to find a square of each element in 1D array
+//develop a c program that defines a structure representing a house
+//(with attributes like room_quantity,established_year and city).
+// list N number of 'house' details using array of objects.
 #include<stdio.h>
-
 struct house{
     int room_quantity;
     int established_year;
